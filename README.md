@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maker
-- 👀 I’m interested in Electronics and Electrical Engineering field
+- 👀 I’m interested in Electronics and Electrical Engineering as well as embedded systems
 - 📫 How to reach me: 
       Email: turan1suleymanli@gmail.com
       Twitter: @MakerOne 
