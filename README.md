@@ -7,3 +7,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Head-Pin&theme=radical" alt="Head-Pin" /></p> 
 
 ![](https://komarev.com/ghpvc/?username=Head-Pin&color=red)
+
+- BTW, I am student at the Warsaw university of Technology(WUT) at Faculty of Electrical Engineering.
