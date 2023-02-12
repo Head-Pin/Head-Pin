@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Turan
+- 👋 What's up? I’m Turan (aka Head-pin) 
 - 👀 I’m interested in Electronics and Electrical Engineering as well as embedded systems
-- 📫 How to reach me: 
-      Email: turan1suleymanli@gmail.com
+- Email for contacting me: turan1suleymanli@gmail.com
 
-- BTW, I am student at the Warsaw university of Technology(WUT) at Faculty of Electrical Engineering.
+- BTW, Have I mentioned I’m student at the Warsaw university of Technology(WUT) at Faculty of Electrical Engineering.
