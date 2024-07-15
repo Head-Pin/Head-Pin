@@ -1,4 +1,4 @@
-- 👋 What's up? I’m Turan (aka Head-pin) 
+- 👋 Hello? I’m Turan (aka Head-pin) 
 - 👀 I’m into Electronics/Electrical Engineering ->> "Mastering the art of Electronics"
 - Email for contacting me: turan1suleymanli@gmail.com
 
